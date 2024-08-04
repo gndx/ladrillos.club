@@ -12,7 +12,7 @@ const params = {
   channelId: CHANNEL_ID,
   order: 'date',
   part: 'snippet',
-  maxResults: 5,
+  maxResults: 15,
 };
 
 const outputPath = path.join(__dirname, '..', 'src', 'config', 'youtube.json');

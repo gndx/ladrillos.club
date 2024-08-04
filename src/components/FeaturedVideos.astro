@@ -12,8 +12,9 @@ import youtube from "@config/youtube.json";
   <ul
     class="mx-auto grid grid-cols-1 md:grid-cols-2 gap-x-4 gap-y-4 lg:mx-0 lg:max-w-none lg:grid-cols-3 text-white"
   >
-    {
-      youtube?.slice(0, 3).map((item) => (
+  {
+    youtube?.map((item) => (
+      item.description ? (
         <li>
           <a
             href={`https://www.youtube.com/watch?v=${item.videoId}`}
@@ -37,7 +38,8 @@ import youtube from "@config/youtube.json";
             </div>
           </a>
         </li>
-      ))
-    }
+      ) : null
+    ))
+  }
   </ul>
 </section>

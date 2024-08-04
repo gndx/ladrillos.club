@@ -5,15 +5,15 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Acerca",
       "url": "/about"
     },
     {
-      "name": "Tags",
+      "name": "Novedades",
       "url": "/tags"
     },
     {
-      "name": "Categories",
+      "name": "Tienda",
       "url": "/categories"
     }
   ]

@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "Ladrillos.club",
+    "base_url": "https://ladrillos.club",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
     "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "description": "Todo sobre LEGO: noticias, reseñas y rumores para verdaderos fans.",
     "pageSize": 6
   },
   "features": {
@@ -16,11 +16,11 @@
   },
   "metadata": {
     "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_description": "Todo sobre LEGO: noticias, reseñas y rumores para verdaderos fans."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Ladrillos Club",
+    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-512.jpeg",
+    "bio": "Todo sobre LEGO: noticias, reseñas y rumores para verdaderos fans."
   }
 }
