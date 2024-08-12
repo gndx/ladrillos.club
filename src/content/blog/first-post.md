@@ -1,19 +1,63 @@
 ---
-title: 'First post'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder.jpg'
-categories: ['first']
+title: 'LEGO Classic Space "Blacktron"'
+description: 'Blacktron hizo su debut en el universo de LEGO Space en 1987, en el año en que nací, aunque existen rumores que sus orígenes se remontan a algunos años antes'
+pubDate: 'AUG 12 2024'
+heroImage: 'https://s3.amazonaws.com/ladrillos.club/blacktron-lego-classic-space-ladrillos-club.jpeg'
+categories: ['space', 'blacktron']
 authors: ['gndx']
-tags: ['science', 'technology']
+tags: ['space', 'blacktron', 'LEGO', 'afol']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+La historia de **Blacktron** es un viaje nostálgico por el universo LEGO Space, al ser la primera sub temática espacial unificada y verdaderamente "temática" se lanzó a las estrellas en negro con detalles amarillos y piezas transparentes rojas y amarillas. Este subtema dejó una huella imborrable en la historia de LEGO y, más de 30 años después, su legado sigue vivo en referencias, minifiguras y remakes y en los coleccionistas, como en mi caso, que descubrí Blacktron en mi viaje por el coleccionismo y ahora es una de mis temáticas favoritas de **LEGO Classic Space**. 
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+![Blacktron MOC](https://s3.amazonaws.com/ladrillos.club/blacktron-lego-classic-space-ladrillos-club.jpeg)
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+##  ¿Cómo comenzó Blacktron?
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Blacktron hizo su debut en el universo de **LEGO Space** en 1987, en el año en que nací, aunque existen rumores que sus orígenes se remontan a algunos años antes. Desde 1982, se deseaba lanzar una línea combinando los colores negro y amarillo. En los primeros conceptos, el color amarillo era más dominante y las cabinas de las naves eran octagonales. Las minifiguras ya portaban el logo de Blacktron, similar al símbolo de la Trifuerza de la saga de Zelda.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+##  ¿Qué caracteriza al subtema Blacktron?
+
+En 1987, LEGO finalmente lanzó el tema de Blacktron, con un catálogo más reducido en comparación con otros subtemas. A diferencia de los prototipos, el color negro dominaba y el amarillo pasaba a un segundo plano, creando un contraste estético más atractivo. Los diseños eran más futuristas y agresivos, inspirados en la ciencia ficción de la época. Sets como el Renegade 6954, una nave espacial modular asimétrica, destacaban por su apariencia inusual.
+
+![enter image description here](https://s3.amazonaws.com/ladrillos.club/blacktron-renegade-ladrillos-club.webp)
+
+
+##  ¿Cuál fue el impacto de Blacktron en LEGO Space?
+
+![enter image description here](https://s3.amazonaws.com/ladrillos.club/blacktron-2-ladrillos-club.jpg)
+
+Blacktron, junto con **Futuron**, debutó como uno de los primeros temas oficiales de LEGO Space, dejando atrás el concepto de Legoland. Fue también uno de los primeros subtemas en introducir villanos en los universos de LEGO, ofreciendo a los fans una nueva y emocionante experiencia. Aunque inicialmente no estaba confirmado que fueran antagonistas, los colores y formas de sus naves delataban sus verdaderas intenciones.
+
+##  ¿Cuáles son los sets más icónicos de Blacktron?
+
+En total, se lanzaron seis sets diferentes, todos en color negro con ventanas amarillas transparentes. Algunos de los más icónicos fueron el Invader, el enigmático Batx y el Renegade. Los diseños tenían un estilo más militar, diferenciándose de otros vehículos de Space que eran claramente civiles y enfocados en la exploración espacial. Las minifiguras de Blacktron vestían trajes similares a los de pilotos militares, con cascos y viseras negras.
+
+
+![enter image description here](https://s3.amazonaws.com/ladrillos.club/blacktron-lego-ladrillos-club.webp)
+
+##  ¿Qué sabemos de la historia de Blacktron?
+
+A pesar de ser una de las facciones más infames y famosas, poco se sabe de la historia de Blacktron. Su historia se ha desarrollado a lo largo de los años, gracias a pequeñas pistas en catálogos, descripciones de minifiguras en videojuegos y algunas historias en las series de minifiguras. Blacktron es un conglomerado de diferentes corporaciones, lo que explica la gran variedad de seres y entidades entre sus filas.
+
+##  ¿Cuáles eran las actividades de Blacktron?
+
+Las principales actividades de Blacktron incluyen el sabotaje, robo y espionaje de tecnología para el desarrollo de armamento e inteligencias artificiales avanzadas. También hay cazarrecompensas entre sus miembros. Las facciones más afectadas por sus actividades han sido Futuron y Mtron, aunque también han atacado a Classic Space.
+
+##  ¿Cómo fue la caída de Blacktron?
+
+ Después de varios años sembrando el terror en la galaxia, el Concilio Galáctico envió a la Space Police para poner orden. En tan solo un año, lograron desmantelar casi por completo a Blacktron. La paz y seguridad volvieron gradualmente a la galaxia, y los remanentes de Blacktron se replegaron a lo más oscuro del espacio, esperando el momento adecuado para resurgir.
+
+##  Nuevos sets de LEGO Blacktron
+
+![enter image description here](https://s3.amazonaws.com/ladrillos.club/40580-blacktron-cruiser-ladrillos-club.png)
+
+[LEGO 40580 Blacktron Cruiser](https://amzn.to/4dGuReo): Este set es una recreación moderna de un clásico de Blacktron y estuvo disponible como un regalo con compra (GWP) del 1 al 14 de enero de 2023. Para obtenerlo, era necesario realizar una compra mínima en LEGO.com o en tiendas LEGO.
+
+![enter image description here](https://s3.amazonaws.com/ladrillos.club/blacktron-mutant-ladrilos-club.jpg)
+
+[Minifigura de Blacktron en la Serie 26 de Minifiguras Coleccionables](https://amzn.to/3WKTgZ5): En la Serie 26 de Minifiguras Coleccionables, que se lanzará el 1 de mayo de 2024, se incluye una minifigura llamada "Blacktron Mutant". Esta figura está inspirada en la temática de Blacktron II y presenta un diseño que evoca nostalgia, pero con un toque moderno y creativo.
+
+##  ¿Qué podemos esperar de Blacktron en el futuro?
+
+Sin dudarlo, espero que LEGO continúe lanzando sets y minifiguras de Blacktron en el futuro. La nostalgia es un factor importante en la industria del entretenimiento y LEGO ha sabido aprovecharla en sus lanzamientos. Con la popularidad de los remakes y reediciones, no sería extraño ver más sets de Blacktron en los próximos años, quizás con un enfoque más moderno y actualizado.
