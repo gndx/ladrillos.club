@@ -5,7 +5,7 @@ pubDate: 'AUG 12 2024'
 heroImage: 'https://s3.amazonaws.com/ladrillos.club/blacktron-lego-classic-space-ladrillos-club.jpeg'
 categories: ['space', 'blacktron']
 authors: ['gndx']
-tags: ['space', 'blacktron', 'LEGO', 'afol']
+tags: ['space', 'blacktron', 'LEGO', 'AFOL']
 ---
 
 La historia de **Blacktron** es un viaje nostálgico por el universo LEGO Space, al ser la primera sub temática espacial unificada y verdaderamente "temática" se lanzó a las estrellas en negro con detalles amarillos y piezas transparentes rojas y amarillas. Este subtema dejó una huella imborrable en la historia de LEGO y, más de 30 años después, su legado sigue vivo en referencias, minifiguras y remakes y en los coleccionistas, como en mi caso, que descubrí Blacktron en mi viaje por el coleccionismo y ahora es una de mis temáticas favoritas de **LEGO Classic Space**. 
