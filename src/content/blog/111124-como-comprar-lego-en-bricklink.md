@@ -1,6 +1,6 @@
 ---
 title: 'Cómo Comprar LEGO en Bricklink y Recibirlo en Colombia'
-description:
+description: 'Comprar sets o minifiguras retirados de LEGO desde Colombia puede parecer complicado, pero aquí te cuento como hacerlo, y ampliar tu colección sin problemas. Utilizar servicios como Amazon, eBay o Bricklink, junto con un casillero en Estados Unidos, facilita el proceso y reduce costos. Aquí te explicamos cómo hacerlo de manera eficiente.'
 pubDate: '2024-11-11T14:04:48.245Z'
 heroImage: 'https://s3.us-east-1.amazonaws.com/ladrillos.club/comprar-bricklink-desde-colombia.png'
 categories: ['bricklink', 'compras']
